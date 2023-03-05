@@ -1,4 +1,4 @@
-# WGU-C867-Final
+# C867 Class Roster
 'Scripting and Programming Applications'
 
 ## Project Requirements
