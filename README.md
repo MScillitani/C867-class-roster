@@ -2,7 +2,7 @@
 'Scripting and Programming Applications'
 
 ## Output
-If you were to run this program, this is the output you would see:
+If you were to run this program, this would be the output:
 
 ![C867 output in console](C867_result.jpg)
 
