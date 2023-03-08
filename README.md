@@ -1,6 +1,11 @@
 # C867 Class Roster
 'Scripting and Programming Applications'
 
+## Output
+If you were to run this program, this is the output you would see:
+
+![C867 output in console](C867_result.jpg)
+
 ## Project Requirements
 
 A. Modify the “studentData Table” to include your personal information as the last item.
